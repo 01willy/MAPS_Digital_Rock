@@ -1,0 +1,6 @@
+# MAPS — tested with Python 3.9, CUDA 11.8/12.1, single RTX 3090 (24 GB)
+torch>=2.2
+numpy>=1.24
+scipy>=1.10
+scikit-image>=0.21
+pytorch-msssim>=1.0

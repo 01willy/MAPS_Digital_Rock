@@ -1,0 +1,11 @@
+# Extra packages needed by the analysis/reproduction drivers
+# (see README, "Reproducing the paper's results").
+-r requirements.txt
+pandas
+matplotlib
+thop
+porespy
+taufactor
+optuna
+einops
+tifffile

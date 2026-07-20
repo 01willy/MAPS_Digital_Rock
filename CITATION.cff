@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "MAPS: Multi-Axis 2.5D Slice Interpolation Preserving Petrophysical Properties in Segmented Digital Rock"
+authors:
+  - family-names: Baek
+    given-names: Seungwon
+  - family-names: Lee
+    given-names: Juan
+  - family-names: Joo
+    given-names: Kyonghee
+  - family-names: Jo
+    given-names: Honggeun
+  - family-names: Jo
+    given-names: Suryeom
+  - family-names: Cho
+    given-names: Yongchae
+repository-code: "https://github.com/01willy/MAPS_Digital_Rock"
+license: MIT
+version: 0.1.1
+date-released: 2026-07-18

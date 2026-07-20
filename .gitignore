@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.npy
+*.raw
+outputs/
+runs/
+data/
+eval_results*.json
+
+# distributed headline checkpoint is tracked (exception to *.pt)
+!checkpoints/maps_stage2_s1-2025_s2-2025_best_ssim.pt
